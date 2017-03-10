@@ -1,0 +1,46 @@
+PEntity
+PPolylineEntity
+PNurbsCurveEntity
+PGeometricPathEntity
+PGeometricPathOrientedEntity
+PPaintbrushStrokeEntity
+PPencilStrokeEntity
+PCharcoalStrokeEntity
+PCrayonRubbingEntity
+PPaintballSplatEntity
+PPointEntity
+PCircleEntity
+PSpiralEntity
+PSphereEntity
+PBoxEntity
+PCylinderEntity
+PConeEntity
+PEditableMeshEntity
+PNurbsSurfaceEntity
+PTextEntity
+
+
+PEntityMgr
+   listOfEntities
+   binarySorts
+   callsExternalApplications
+   reads & writes files
+   creates entities to specifications supplied by user
+   
+
+PManip
+PPointManip
+PLineManip
+PTransformBoxManip
+P30-60-90Manip
+PProtractorManip
+PTapeMeasureManip
+PShipsCurvesManip
+
+
+PHighlight
+
+
+PApplicationState
+PDrawApplicationState
+PRoadworksApplicationState
